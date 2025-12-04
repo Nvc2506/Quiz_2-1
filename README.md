@@ -11,8 +11,8 @@ Exposición de claves o secretos embebidos en código fuente.
 3.😁 **IAM (Identity and Access Management)** 
 La gestión de identidades y accesos (IAM) es un conjunto de políticas y tecnologías que permiten garantizar que las personas y sistemas adecuados tengan el acceso correcto a recursos en el momento adecuado.**
 
-4.😁 **IAM (Identity and Access Management)**
-La gestión de identidades y accesos (IAM) es un conjunto de políticas y tecnologías que permiten garantizar que las personas y sistemas adecuados tengan el acceso correcto a recursos en el momento adecuado.**
+4.😁 **SQL****
+Permite a los usuarios consultar, insertar, actualizar y eliminar datos, así como crear y modificar estructuras de bases de datos como tablas. Es una herramienta fundamental para analistas y desarrolladores de datos en sectores como finanzas, salud y telecomunicaciones. 
 
 5.🦾 **Disco Duro**
 Dispositivo de almacenamiento permanente donde se guardan archivos, programas y el sistema operativo. 
